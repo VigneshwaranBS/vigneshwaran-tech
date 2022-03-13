@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Webilicious
 - 🌱 I’m currently learning  Data Scientist
 - 👯 I’m looking to collaborate on Google
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Google.inc
 - 💬 Ask me about anything
-- 📫 How to reach me: bs.vigneshwaran@gmail.com
+- 📫 How to reach me: [email] bs.vigneshwaran@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
