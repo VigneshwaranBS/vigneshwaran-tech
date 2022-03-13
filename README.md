@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , I am studying in Sona college of technology 👋
 
 <!--
 **vigneshwaran-tech/vigneshwaran-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
