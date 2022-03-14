@@ -21,7 +21,7 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS , VueJs , NextJs , Firebase , Markdown , Python,
+Javascript, HTML, CSS , VueJs , NextJs , Firebase , Markdown , Python ,
 Java.
 
 
