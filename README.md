@@ -4,7 +4,7 @@
 
 ## Authors
 
-![Vigneshwaran BS](https://user-images.githubusercontent.com/83588204/159114301-0bf27c2b-d938-4c0e-9a05-0dce6860f405.jpg ){ height=50% }
+![Vigneshwaran BS](https://user-images.githubusercontent.com/83588204/159114301-0bf27c2b-d938-4c0e-9a05-0dce6860f405.jpg ){:height="36px" width="36px"}
 
 - [Vigneshwaran BS](https://github.com/vigneshwaran-tech)
 
