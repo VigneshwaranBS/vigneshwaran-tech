@@ -4,7 +4,7 @@
 
 ## Authors
 
-- [@VigneshwaranBS](https://github.com/vigneshwaran-tech)
+- [Vigneshwaran BS](https://github.com/vigneshwaran-tech)
 
 
 
