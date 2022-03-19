@@ -4,6 +4,8 @@
 
 ## Authors
 
+![Vigneshwaran BS](https://user-images.githubusercontent.com/83588204/159114301-0bf27c2b-d938-4c0e-9a05-0dce6860f405.jpg)
+
 - [Vigneshwaran BS](https://github.com/vigneshwaran-tech)
 
 
@@ -21,10 +23,8 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS , VueJs , NextJs , Firebase , Markdown , Python ,
-Java , MY SQL![Screenshot (14)](https://user-images.githubusercontent.com/83588204/159114222-8e816887-ced4-404c-ae70-44c9a52b51db.png)
-.
-
+ HTML, CSS ,Javascript, VueJs , NextJs , Firebase , Markdown , Python ,
+Java , MY SQL .
 
 ## 📞 Support
 
