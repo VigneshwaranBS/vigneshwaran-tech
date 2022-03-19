@@ -22,10 +22,11 @@ I'm a full stack developer...
 
 ## 🛠 Skills
 Javascript, HTML, CSS , VueJs , NextJs , Firebase , Markdown , Python ,
-Java.
+Java , MY SQL![Screenshot (14)](https://user-images.githubusercontent.com/83588204/159114222-8e816887-ced4-404c-ae70-44c9a52b51db.png)
+.
 
 
-## Support
+## 📞 Support
 
 For support, email bs.vigneshwaran@gmail.com
 
