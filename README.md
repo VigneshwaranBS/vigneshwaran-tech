@@ -13,7 +13,7 @@
 
 
 ## 🚀 About Me
--Student and Developer .
+- Student and Developer .
 
 
 ## 🔗 Links
