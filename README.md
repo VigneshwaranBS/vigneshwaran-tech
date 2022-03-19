@@ -4,7 +4,6 @@
 
 ## Authors
 
-<img src="https://user-images.githubusercontent.com/83588204/159114301-0bf27c2b-d938-4c0e-9a05-0dce6860f405.jpg" width="150" height="200">
 
 - [Vigneshwaran BS](https://github.com/vigneshwaran-tech)
 
@@ -14,7 +13,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+-Student and Developer .
 
 
 ## 🔗 Links
